@@ -7,9 +7,9 @@
 
   <p> Disusun Oleh Kelompok 1 (2022A): </p>
   <p> 1.)	Adelia Salsabila Arifin		      22091397022 </p>
-  <p> 2.)	Deby Putri Sulistyo Rini		    22091397029 </p>
-  <p> 3.)	Enrique Rendhi Julian Mahardika	22091397031 </p>
-  <p> 4.)	Epa Aprillia	 			            22091397024 </p>
+  <p> 2.)	Epa Aprillia	 			            22091397024 </p>
+  <p> 3.)	Deby Putri Sulistyo Rini		    22091397029 </p>
+  <p> 4.)	Enrique Rendhi Julian Mahardika	22091397031 </p>
 
 <p> . </p>
 <p> . </p>
